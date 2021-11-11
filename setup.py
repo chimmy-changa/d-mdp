@@ -50,7 +50,7 @@ long_description = (HERE / "README.md").read_text()
 
 
 setuptools.setup(
-    name="matlab-desktop-proxy",
+    name="d-mdp",
     version="0.1.0",
     url=config["doc_url"],
     author="The MathWorks, Inc.",
